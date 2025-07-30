@@ -1,4 +1,8 @@
 # Matlab_2025_EMG_drone
+2025 MATLAB 대학생 AI 경진대회
+팀 옥수수 인턴즈
+주제) EMG 기반 한 팔 동작 인식을 이용한 드론 제어 시스템
+
 
 # EMG_DR_E2E_pipeline_simulink.slk
 이 파일은 실시간 EMG 신호 기반으로 딥러닝 분류를 수행하고, 그 결과를 바탕으로 실제 UAV의 제어 명령을 생성하고 시뮬레이션하는 End-to-End 최종 파이프라인을 Simulink로 구현한 모델입니다.
